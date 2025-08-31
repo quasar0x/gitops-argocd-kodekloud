@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: http://github.com/quasar0x/gitops-argocd-kodekloud.git
+    repoURL: https://github.com/quasar0x/gitops-argocd-kodekloud.git
     targetRevision: HEAD
     path: ./declarative/manifests/heliocentric-model
    
